@@ -1,0 +1,57 @@
+.container{
+    height: 100vh;
+}
+
+#menu {
+    height: 50px;
+}
+
+#menu ul{
+    text-decoration: none;
+    list-style: none;
+    line-height: 50px;
+}
+
+.card-img-top{
+    height: 180px;
+
+}
+
+#item{
+    height: 50px;
+    padding: 0px;
+    margin: 10px;
+}
+
+footer{
+    height: 50px;
+    line-height: 50px;
+}
+
+.lateral{
+    height: 200px;
+}
+
+/* Aprender esto, es lateral, los divs que le siguen */
+
+
+/* Media Queries */
+@media (min-width: 576px){
+
+}
+
+@media (min-width: 768px){
+    
+}
+
+@media (min-width: 992px){
+    
+}
+
+@media (min-width: 1200px){
+    
+}
+
+@media (min-width: 1400px){
+    
+}
